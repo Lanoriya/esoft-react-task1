@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/iyngj3n0398g5t73?svg=true)](https://ci.appveyor.com/project/Lanoriya/esoft-react-task1)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
